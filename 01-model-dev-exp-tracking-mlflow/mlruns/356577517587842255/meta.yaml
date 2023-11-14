@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rashmi/Documents/rashmi/github_repos/AtoZ_ml_ops_course/ds_salary_prediction/data-salary-prediction-mlops/01-model-dev-exp-tracking-mlflow/mlruns/356577517587842255
+creation_time: 1698673089200
+experiment_id: '356577517587842255'
+last_update_time: 1698673089200
+lifecycle_stage: active
+name: salary-predictor-exp
